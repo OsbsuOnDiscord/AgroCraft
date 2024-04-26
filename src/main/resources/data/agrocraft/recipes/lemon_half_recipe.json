@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+
+  "pattern": [
+
+    "   ",
+    "KL ",
+    "   "
+  ],
+
+  "key": {
+
+    "K": {
+      "item": "agrocraft:kitchen_knife"
+    },
+    "L": {
+      "item": "agrocraft:lemon"
+    }
+  },
+
+  "result": {
+    "item": "agrocraft:lemon_half",
+    "count": 2
+  }
+}
